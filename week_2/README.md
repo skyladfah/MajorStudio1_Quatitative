@@ -10,6 +10,19 @@
 
 <p>This design mockup include 4 main indicators; (1) Year, (2) President, (3) Number of seats held by men and (4) Number of seats held by women.</p>
 
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_2/initial%20design_1998.jpeg)
+
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_2/initial%20design_2002.jpeg)
+
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_2/initial%20design_2006.jpeg)
+
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_2/initial%20design_2010.jpeg)
+
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_2/initial%20design_2014.jpeg)
+
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_2/initial%20design_2018.jpeg)
+
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_2/initial%20design_2022.jpeg)
 
 <p>The number of seats held by men and women are plotted over a seating plan template. It is obvious that the number of seats held by women barely increase over a decade. The biggest jump of the number of American female politicians was this year, 2022, under Donald Trump and Joe Biden's time.</p>
 
@@ -20,3 +33,7 @@
 <li>https://data.ipu.org/women-ranking?month=8&year=2022
 <li>http://archive.ipu.org/wmn-e/classif-arc.htm
 </ul>
+
+## Cleaning Data
+
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_2/cleaning_data.png)
