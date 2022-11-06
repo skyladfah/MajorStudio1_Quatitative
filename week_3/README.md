@@ -11,15 +11,15 @@
 1. Colour Scheme
 <p> People often assosiate red with danger and badness. However, this project is a part of SDG Goal 5: <i>Achieve gender equality and empower all women and girls</i>, which is using a red-orange palette as the goal colour. I tried to over come this perception by saying that red-orange is where we want to be.</p>
 
-![image](https://github.com/skyladfah/Major-Studio/blob/main/colour_scheme.png)
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/colour_scheme.png)
 
 
 2. Seats Visualisation
 <p> Each country has a unique political system, including the number of total seats in the parliment. I could have use the same seating plan such as a semi-circle seating to minimize the visual. However, this will throw away the uniqueness of the national identiy. A different seating plans not only represent cultural component of each national identity but also keep the visualisation interesting when comparing multiple system/countries.</p>
 
-![image](https://github.com/skyladfah/Major-Studio/blob/main/seats_visualisation_1.png)
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/seats_visualisation_1.png)
 
-![image](https://github.com/skyladfah/Major-Studio/blob/main/seats_visualisation_2.png)
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/seats_visualisation_2.png)
 
 
 3. Sample countries
@@ -29,22 +29,22 @@
 <li> New Zealand (bottom image) = The country with the world’s youngest female leader at age 37</li> 
 </ul>
 
-![image](https://github.com/skyladfah/Major-Studio/blob/main/sample_countries.png)
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/sample_countries.png)
 
 <h2>Final Design</h2>
 A webpage that act as an infomation archive digital folders. 
 
-![image](https://github.com/skyladfah/Major-Studio/blob/main/design_mockup.png)
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/design_mockup.png)
 
-![image](https://github.com/skyladfah/Major-Studio/blob/main/design_interaction.png)
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/design_interaction.png)
 
 
 <h2>Coding</h2>
 
 <ul>
-<li> HTML: https://github.com/skyladfah/Major-Studio/blob/main/index.html
-<li> CSS: https://github.com/skyladfah/Major-Studio/blob/main/style.css
-<li> JS https://github.com/skyladfah/Major-Studio/blob/main/app.js
+<li> HTML: https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/index.html
+<li> CSS: https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/style.css
+<li> JS: https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/app.js
 </ul>
 
 ![image](https://github.com/skyladfah/Major-Studio/blob/main/code_still_screenshot.png)
