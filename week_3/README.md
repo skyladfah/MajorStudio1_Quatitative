@@ -34,9 +34,17 @@
 <h2>Final Design</h2>
 A webpage that act as an infomation archive digital folders. 
 
-![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/design_mockup.png)
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/Final_Home%20page.png)
 
-![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/design_interaction.png)
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/final_america%20page%201.png)
+
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/final_america%20page%202.png)
+
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/final_america%20page%203.png)
+
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/final_china.png)
+
+![image](https://github.com/skyladfah/MajorStudio1_Quatitative/blob/main/week_3/final_nz.png)
 
 
 <h2>Coding</h2>
