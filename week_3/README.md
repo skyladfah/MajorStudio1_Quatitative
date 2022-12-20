@@ -57,7 +57,7 @@ A webpage that act as an infomation archive digital folders.
 
 ![image](https://github.com/skyladfah/Major-Studio/blob/main/code_still_screenshot.png)
 
-<p>I struggled a lot with JS and needed to seek help from other students. The challenge is not only building the semi-circle seating plan for America data but also linking several set of information together. For example, these elements must be tied up so that all change once clicked. 
+<p>My page built with code doesn't look exactly like my final design because I struggled a lot with JS and needed to seek help from other students. The challenge is not only building the semi-circle seating plan for America data but also linking several set of information together. For example, these elements must be tied up so that all change once clicked. 
 
   <li> Seating plan (SVG)
   <li> The previous button
